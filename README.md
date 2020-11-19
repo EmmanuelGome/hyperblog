@@ -9,4 +9,4 @@
 3.  Control de repositorios, trabajos en equipo, administración y revisión de un proyecto en Git
 4.  Buenas prácticas
 
-** Muchas gracias, es muy bueno aprender cosas nuevas **
+**Muchas gracias, es muy bueno aprender cosas nuevas**
