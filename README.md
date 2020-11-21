@@ -10,5 +10,6 @@
 4.  Buenas prácticas
 5.  Punto de prueba del cherry-pick
 6.  Punto de prueba dos de la cereza
+7.  Este es el tercer punto de la recolección de cereza
 
 **Muchas gracias, es muy bueno aprender cosas nuevas**
