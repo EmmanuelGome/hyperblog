@@ -8,5 +8,6 @@
 2.  Control de repositorios, cambios, ramas y administración de cambios de en Git
 3.  Control de repositorios, trabajos en equipo, administración y revisión de un proyecto en Git
 4.  Buenas prácticas
+5.  Punto de prueba del cherry-pick
 
 **Muchas gracias, es muy bueno aprender cosas nuevas**
