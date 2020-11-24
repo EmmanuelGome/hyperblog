@@ -50,8 +50,12 @@ body{
     padding: 1em;
 }
 
+#container #post #nebula{
+    width: 100%;
+}
+
 #footer{
-    background:#777;
+    background: #37488b;
     color: white;
     text-align: center;
     padding: .5em;
